@@ -1,0 +1,38 @@
+body {
+  margin: 0;
+  background-color: #1e1e1e;
+  color: #00ff95;
+  font-family: monospace;
+}
+
+#terminal {
+  padding: 1rem;
+  max-width: 800px;
+  margin: auto;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+#output {
+  flex: 1;
+  white-space: pre-wrap;
+  overflow-y: auto;
+}
+
+#input-line {
+  display: flex;
+}
+
+.prompt {
+  margin-right: 0.5rem;
+}
+
+#command-input {
+  background: transparent;
+  border: none;
+  color: #00ff95;
+  flex: 1;
+  font: inherit;
+  outline: none;
+}
