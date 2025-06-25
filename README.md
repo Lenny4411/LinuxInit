@@ -1,6 +1,6 @@
-# InitSec Terminal
+# LinuxI it Terminal
 
-**InitSec Terminal** is a beginner-friendly, browser-based fake Linux terminal to teach cybersecurity, command-line basics, and hacker culture in a safe and fun way.  
+**LinuxInit Terminal** is a beginner-friendly, browser-based fake Linux terminal to teach cybersecurity, command-line basics, and hacker culture in a safe and fun way.  
 This is part of the InitSec project by Hack Club, designed to introduce young learners to real-world tools in an interactive way.
 
 ## 🛠️ Getting Started (Local)
